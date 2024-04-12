@@ -42,3 +42,7 @@ Beyond `git`, this image / `Dockerfile` includes `zsh`, [Oh My Zsh!](https://ohm
 
 ## Extra features
 - Added amd64 platform for running docker in amd64 on arm64 machines(macbook)
+
+## Resources
+- https://github.com/devcontainers/images
+- https://github.com/devcontainers/images/tree/main/src/base-debian
